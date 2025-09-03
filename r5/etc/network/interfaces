@@ -1,6 +1,6 @@
 auto eth0
 iface eth0 inet static
-	address 193.201.28.2/23
+	address 193.201.29.254/23
 
 auto eth1
 iface eth1 inet static
