@@ -1,1 +1,3 @@
 /etc/init.d/networking restart
+ip r add 100.0.0.4/31 via 100.0.0.1
+ip r add 100.0.0.6/31 via 100.0.0.3
